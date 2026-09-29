@@ -1,10 +1,11 @@
-1. lámpara - http://dle.rae.es/?id=MqxCKuY
-2. cañería - http://dle.rae.es/?id=7G1uVB0
-3. algoritmo - https://dle.rae.es/algoritmo
-4. código - https://dle.rae.es/c%C3%B3digo
-5. bucle - https://dle.rae.es/bucle
-6. variable - https://dle.rae.es/variable
-7. función - https://dle.rae.es/funci%C3%B3n
-8. puntero - https://dle.rae.es/puntero
-9. memoria - https://dle.rae.es/memoria
-10. consola - https://dle.rae.es/consola
+
+ 1. mesa - https://dle.rae.es/mesa
+ 2. ventana - https://dle.rae.es/ventana
+ 3. mochila - https://dle.rae.es/mochila
+ 4. botella - https://dle.rae.es/botella
+ 5. reloj - https://dle.rae.es/reloj
+ 6. zapato - https://dle.rae.es/zapato
+ 7. libreta - https://dle.rae.es/libreta
+ 8. camisola - https://dle.rae.es/camisola
+ 9. chaqueta - https://dle.rae.es/chaqueta
+ 10. cuchara - https://dle.rae.es/cuchara
