@@ -6,5 +6,5 @@
  6. zapato - https://dle.rae.es/zapato
  7. libreta - https://dle.rae.es/libreta
  8. camisola - https://dle.rae.es/camisola
- 9. chaqueta - https://dle.rae.es/chaqueta
+ 9.  chaqueta - https://dle.rae.es/chaqueta
  10. cuchara - https://dle.rae.es/cuchara
