@@ -1,0 +1,10 @@
+ 1. mesa - https://dle.rae.es/mesa
+ 2. ventana - https://dle.rae.es/ventana
+ 3. mochila - https://dle.rae.es/mochila
+ 4. botella - https://dle.rae.es/botella
+ 5. reloj - https://dle.rae.es/reloj
+ 6. zapato - https://dle.rae.es/zapato
+ 7. libreta - https://dle.rae.es/libreta
+ 8. camisola - https://dle.rae.es/camisola
+ 9.  chaqueta - https://dle.rae.es/chaqueta
+ 10. cuchara - https://dle.rae.es/cuchara
